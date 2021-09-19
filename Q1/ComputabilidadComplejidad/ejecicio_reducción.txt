@@ -1,0 +1,20 @@
+7 -> 8 -> 4 -> 3 ->
+
+Digito digito digito digito
+                     2
+
+digito digito digito digito numero
+                     2
+
+digito digito digito numero 
+              2
+
+digito digito numero
+       2
+
+digito numero
+2
+
+numero
+
+
